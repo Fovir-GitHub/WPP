@@ -48,6 +48,34 @@ graph TD
 
 ## 子标签页
 
+### BRANDS
+
+![Brand Tab](img/brand-tab.png)
+
+### WOMEN
+
+![Women Tab](img/women-tab.png)
+
+### MEN
+
+![Men Tab](img/men-tab.png)
+
+### KIDS
+
+![Kids Tab](img/kides-tab.png)
+
+### SHOES
+
+![Shoes Tab](img/shoes-tab.png)
+
+### BAG & ACCESSORIES
+
+![Bag Tab](img/bag-tab.png)
+
+### DEAL
+
+![Deal Tab](img/deal-tab.png)
+
 # 受众
 
 # 修辞
