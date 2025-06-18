@@ -61,3 +61,4 @@ Use words in a way that deviates from the conventional meaning in order to conve
 | Ethos  | Appeal to Ethics and Credibility | Based on the speaker or author.                       |
 | Pathos | Appeal to Emotions               | Based on how the text makes the reader/audience feel. |
 | Logos  | Appeal to Logic and Reason       | Based on facts, research, and evidence.               |
+

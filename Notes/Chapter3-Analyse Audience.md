@@ -82,7 +82,7 @@ Readers can be identified by the distance from the writer.
 | Habits                   | Ethnicity       |
 | Beliefs                  | Education Level |
 | Behaviors                | Religion        |
-| Interests                |                 |
+| Interests                | None            |
 
 # How the reader use the document?
 
